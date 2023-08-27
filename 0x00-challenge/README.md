@@ -1,2 +1,2 @@
-0x00-challenge
-for the optional task done by mawliiiiiiid mohamud
+# Fix-my-code-1
+created by mawliid mohamud 
